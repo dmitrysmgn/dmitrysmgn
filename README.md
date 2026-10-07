@@ -1,16 +1,23 @@
-## Hi there 👋
+# Dmitry Smagin
 
-<!--
-**dmitrysmgn/dmitrysmgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NLP / AI Engineer building production LLM, RAG and agentic systems.
 
-Here are some ideas to get you started:
+Currently focused on retrieval, LLM orchestration, evaluation and production AI infrastructure. Background in classical ML and industrial automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+
+- LLM & agentic systems
+- RAG & hybrid retrieval
+- LLM evaluation & observability
+- Classical ML & time series
+- Production ML/AI systems
+
+### Tech
+
+Python · PyTorch · LangGraph · LangChain · Qdrant · FastAPI  
+Docker · Kubernetes · Airflow · MLflow · PostgreSQL  
+CatBoost · LightGBM · scikit-learn
+
+### Contact
+
+dmitry@smgn.dev
