@@ -2,21 +2,21 @@
 
 NLP / AI Engineer building production LLM, RAG and agentic systems.
 
-Currently focused on retrieval, LLM orchestration, evaluation and production AI infrastructure. Background in classical ML and industrial automation.
+Focused on retrieval, LLM orchestration, evaluation and production AI infrastructure. Background in classical ML and industrial automation.
 
 ### Focus
 
 - LLM & agentic systems
 - RAG & hybrid retrieval
-- LLM evaluation & observability
-- Classical ML & time series
+- LLM evaluation & guardrails
+- Classical ML
 - Production ML/AI systems
 
 ### Tech
 
-Python · PyTorch · LangGraph · LangChain · Qdrant · FastAPI  
-Docker · Kubernetes · Airflow · MLflow · PostgreSQL  
-CatBoost · LightGBM · scikit-learn
+Python · LangGraph · MLflow · LangFuse  
+Docker · Kubernetes · Airflow · PostgreSQL  
+CatBoost · LightGBM · scikit-learn · SHAP
 
 ### Contact
 
